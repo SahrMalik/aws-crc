@@ -6,3 +6,5 @@ async function updateCounter() {
 }
 
 updateCounter();
+
+//test
