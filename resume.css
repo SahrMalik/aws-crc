@@ -1,0 +1,40 @@
+* {
+    max-width: 1000px;
+    margin: auto;
+    line-height: 1.618;
+}
+
+body{
+  background-color: #ddd;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body h1{
+  font-size: 40px;
+  margin-top: -20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body h3{
+  font-size: 22px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.index-container{
+  background-color: white;
+  padding: 20px;
+}
+
+.top-header{
+  background-color: #6699CC;
+  color: white;
+  margin: -20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.view-count{
+  text-align: end;
+  margin-top: -15px;
+  color: white;
+}
