@@ -38,3 +38,17 @@ body h3{
   margin-top: -15px;
   color: white;
 }
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: none;
+}
+
