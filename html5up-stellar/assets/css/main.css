@@ -108,7 +108,7 @@ section {
   text-align: end;
   margin-top: -15px;
   color: white;
-  font-size: 30px;
+  font-size: 25px;
 }
 body {
   line-height: 1;
@@ -3182,7 +3182,7 @@ table.alt tbody tr td {
 }
 
 #header.alt {
-  padding: 50px 30px 30px 30px;
+  padding: 40px 30px 50px 30px;
 }
 
 #header.alt h1 {
